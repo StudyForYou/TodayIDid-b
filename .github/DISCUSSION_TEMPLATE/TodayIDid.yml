@@ -46,3 +46,14 @@ body:
         4. 내일 할일:
     validations:
       required: false
+  - type: textarea
+    attributes:
+      label: 🙍 이승연
+      description: 오늘 하루 한 일 / KPT(Keep, Problem, Try) / 내일 할 일에 대해 생각해봐요.
+      value: |
+        1. What I did today:
+        2. 잘한 점:
+        3. 아쉬웠던 점:
+        4. 내일 할일:
+    validations:
+      required: false
