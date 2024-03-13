@@ -1,5 +1,3 @@
-name: "🖤 TodayIDid"
-description: 오늘 하루를 돌아보고 내일을 계획해봐요
 title: "[/]"
 body:
   - type: textarea
